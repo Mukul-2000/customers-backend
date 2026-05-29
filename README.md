@@ -2,6 +2,9 @@
 
 REST API built with Node.js, Express, TypeScript and MongoDB
 
+## Live URL
+Backend API: customers-backend-50o8.onrender.com
+
 ## Features
 - Create, Read, Update, Delete customers
 - MongoDB integration
